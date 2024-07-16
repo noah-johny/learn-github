@@ -1,7 +1,6 @@
 // eslint.config.mjs
-import { Linter } from "eslint";
 
-/** @type {Linter.FlatConfig[]} */
+/** @type {import("eslint").FlatConfig[]} */
 export default [
   {
     languageOptions: {
