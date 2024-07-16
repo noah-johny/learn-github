@@ -32,7 +32,3 @@ credentials.json
 # Ignore user-specific files
 /.vscode/
 /.env
-
-# Ignore backup files
-*.backup
-*.swp
